@@ -9,6 +9,5 @@
 亦或是在reset时进入了实模式，但是“我們忽略了segment register cache register在real mode 下所起的作用”，reset时（during reset）进入了实模式我个人认为可能性比较小。
 
 网上帖子参考：
-<https://www.itdaan.com/tw/5f65afcceed0d676bb32e078ba11527c>
-
-<https://news.ycombinator.com/item?id=18160029>
+* <https://www.itdaan.com/tw/5f65afcceed0d676bb32e078ba11527c>
+* <https://news.ycombinator.com/item?id=18160029>
